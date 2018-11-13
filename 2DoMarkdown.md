@@ -7,10 +7,10 @@ Fire for objects | []
 
 Task|Steps
 ----|-----
-**Blastwave**|---- 
--| Make sphere cast
--| List all hit objects
--| Activate fire script IF object has rb
+**Blastwave**| ---- 
+-| Make sphere cast [X]
+-| List all hit objects [X]
+-| Activate fire script IF object has rb [X]
 **Destructible Buildings** | ----
 -| Add more joints
 -| Add variance
