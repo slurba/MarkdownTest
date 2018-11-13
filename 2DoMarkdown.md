@@ -7,19 +7,19 @@ Fire for objects | []
 
 Task|Steps
 ----|-----
-Blastwave|---- 
+**Blastwave**|---- 
 -| Make sphere cast
 -| List all hit objects
 -| Activate fire script IF object has rb
-Destructible Buildings | ----
+**Destructible Buildings** | ----
 -| Add more joints
 -| Add variance
 -| Score on destruction
-Bomb Placer UI | ----
+**Bomb Placer UI** | ----
 -| Change bomb height
 -| Detonate btn
 -| Score tracker
-Fire for objects | ----
+**Fire for objects** | ----
 -| Add particle effect
 -| Disable on start, activate on blastwave hit
 -| Make particles look like fire
