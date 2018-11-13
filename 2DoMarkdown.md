@@ -1,6 +1,6 @@
 Task|Status
 ----|------
-Blastwave|[]
+Blastwave|[X]
 Destructible Buildings | []
 Bomb Placer UI | []
 Fire for objects | []
