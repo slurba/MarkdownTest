@@ -3,7 +3,7 @@ Task|Status
 Blastwave|[X]
 Destructible Buildings | []
 Bomb Placer UI | []
-Fire for objects | []
+Fire for objects | [X]
 
 Task|Steps
 ----|-----
@@ -20,6 +20,6 @@ Task|Steps
 -| Detonate btn
 -| Score tracker
 **Fire for objects** | ----
--| Add particle effect
--| Disable on start, activate on blastwave hit
--| Make particles look like fire
+-| Add particle effect [X]
+-| Disable on start, activate on blastwave hit [X] 
+-| Make particles look like fire [X]
